@@ -8,6 +8,8 @@ public class LoginPage {
 		
 		System.out.println("This is new test");
 		
+		System.out.println("Call end..");
+		
 		return a;
 		
 	}
