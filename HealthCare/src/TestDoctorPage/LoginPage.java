@@ -6,12 +6,9 @@ public class LoginPage {
 	{
 		System.out.println("name is: "+a);
 		
-		a="Tarique";
-		b="Ibnhumayun";
+		System.out.println("This is new test");
 		
-		System.out.println("");
-		
-		return "abc";
+		return a;
 		
 	}
 	
