@@ -6,7 +6,7 @@ public class PageObjectLogin {
 		
 		System.out.println("The prgram is started..");
 		
-		LoginPage.validLogin("Tariqu","Humayun");
+		LoginPage.validLogin("Tarique","Humayun");
 		
 		System.out.println("The program end..");
 		

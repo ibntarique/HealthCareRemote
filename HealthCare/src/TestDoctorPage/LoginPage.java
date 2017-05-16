@@ -4,9 +4,7 @@ public class LoginPage {
 	
 	public static String validLogin(String a,String b)
 	{
-		System.out.println("The name is: "+a);
-		
-		System.out.println("This is new test");
+		System.out.println("The first name is: "+a+" The last name is: "+b);
 		
 		System.out.println("Call end..");
 		
